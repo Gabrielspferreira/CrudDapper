@@ -1,6 +1,6 @@
 ﻿using AutoMapper;
-using CrudDapper.Controllers;
 using CrudDapper.Dto;
+using CrudDapper.Models;
 
 namespace CrudDapper.Profiles
 {

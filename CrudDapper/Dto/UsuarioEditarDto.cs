@@ -1,6 +1,6 @@
 ﻿namespace CrudDapper.Dto
 {
-    public class UsuarioListarDto
+    public class UsuarioEditarDto
     {
         public int Id { get; set; }
         public string NomeCompleto { get; set; }
